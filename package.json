@@ -1,0 +1,26 @@
+{
+  "name": "theme-vbs",
+  "displayName": "theme-vbs",
+  "description": "Theme from UX team of Versa Blend Softwares",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "VersaBlendSoftwares",
+  "icon": "./documentation/vscode.png",
+  "repository": {
+		"url": "https://github.com/piyush2053/Theme-Vs-code-VBS"
+	},
+  "contributes": {
+    "themes": [
+      {
+        "label": "vbs-light",
+        "uiTheme": "vs",
+        "path": "./themes/vbs-light-color-theme.json"
+      }
+    ]
+  }
+}
