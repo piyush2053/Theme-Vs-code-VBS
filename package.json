@@ -2,7 +2,7 @@
   "name": "theme-vbs",
   "displayName": "VBS Theme",
   "description": "Theme from UX team of Versa Blend Softwares",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.95.0"
   },
